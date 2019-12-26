@@ -1,2 +1,2 @@
-# pytorch101
-A gentle introduction to using pytorch for common machine learning applications
+# pytorch_examples
+A collection of Jupyter notebooks for common machine learning architectures in Pytorch.
